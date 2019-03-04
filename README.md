@@ -6,3 +6,8 @@ The Pig dice game is a very simple game,basically you will have your turn to pla
 ## Setup/Installation Requirements
 * Access to the internet
 * Google Chrome
+
+## Behavior Driven Development
+  |
+## Known Bugs
+The application does not have any known bugs,if you come across any bug please inform us on through the contacts listed below
