@@ -31,7 +31,7 @@ p{
 }
 }
 body{
-  background-image: url("/home/david/Documents/dice/images/c.jpeg");
+  background-image: url("images/c.jpeg");
 }
 .ko{
   color: orange;
