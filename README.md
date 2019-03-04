@@ -19,3 +19,7 @@ The technologies used include:-
   <li> jQuerry </li>
   <li> Cascading style sheets </li>
 </ul>
+
+
+## Support and contact details
+To call the developer use the following details.Email:kingkgdave@gmail.com Telephone:0770057240
