@@ -18,3 +18,13 @@ p{
   text-align: center;
 
 }
+.card{
+  background-color: black;
+}
+.kk{
+  color: white;
+  font-size: 300%;
+}
+.i{
+  color: green;
+  font-size: 150%;
