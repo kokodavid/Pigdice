@@ -33,3 +33,7 @@ p{
 body{
   background-image: url("/home/david/Documents/dice/images/c.jpeg");
 }
+.ko{
+  color: orange;
+  font-size: 300%;
+}
