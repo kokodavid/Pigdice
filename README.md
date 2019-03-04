@@ -21,7 +21,7 @@ The technologies used include:-
 
 
 ## Support and contact details
-To call the developer use the following details.Email:kingkgdave@gmail.com Telephone:0770057240
+To call the developer use the following details.Email:kingkgdave@gmail.com Telephone:0770057240 link to github https://kokodavid.github.io/Pigdice/
 
 ### License
 The project uses MIT licence
